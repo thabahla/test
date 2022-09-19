@@ -13,7 +13,7 @@ public class App {
 
     public static void main(String[] args) throws IOException {
         
-        //test1
+        //test2
 
         if (args.length < 1) {
             System.err.println("[Usage] jar -jar find-links.jar <url>");
